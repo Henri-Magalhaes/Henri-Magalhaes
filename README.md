@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**Henri-Magalhaes/Henri-Magalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Desenvolvimento de Software**, com foco em **Backend e Python**.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologias
+- Python
+- FastAPI
+- SQL / PostgreSQL
+- SQLAlchemy
+- Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Atualmente estudando
+- Desenvolvimento de APIs REST
+- Autenticação
+- Testes com pytest
+- Arquitetura de aplicações
+
+### 🚀 Objetivo
+Evoluir como desenvolvedor Backend e transformar meus estudos em projetos práticos.
+
+📍 Goiânia, GO
